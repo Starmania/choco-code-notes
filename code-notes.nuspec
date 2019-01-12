@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>code-notes</id>
+    <version>1.2.1</version>
+    <packageSourceUrl>https://github.com/lauthieb/code-notes</packageSourceUrl>
+    <owners>P. Marshall (simplepat)</owners>
+    <title>Code Notes</title>
+    <authors>Laurent Thiebault (@lauthieb)</authors>
+    <projectUrl>https://github.com/lauthieb/code-notes</projectUrl>
+    <iconUrl>https://github.com/lauthieb/code-notes/blob/master/build/icons/256x256.png</iconUrl>
+    <tags>code notes developper tool snippet gist notepad</tags>
+    <summary>A simple code snippet and gist manager for developers built with Electron and Vue.js</summary>
+    <description>The aim of this project is to make us more efficient by offering a pretty cool tool : a kind of notepad for our code !</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
