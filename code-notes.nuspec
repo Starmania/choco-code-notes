@@ -3,11 +3,12 @@
   <metadata>
     <id>code-notes</id>
     <version>1.2.1</version>
-    <packageSourceUrl>https://github.com/simplepat/choco-code-notes/blob/master/code-notes.1.2.1.nupkg</packageSourceUrl>
-    <owners>P. Marshall (simplepat)</owners>
+    <packageSourceUrl>https://github.com/simplepat/choco-code-notes</packageSourceUrl>
+    <owners>P. Marshall (@simplepat)</owners>
     <title>Code Notes</title>
     <authors>Laurent Thiebault (@lauthieb)</authors>
     <projectUrl>https://github.com/lauthieb/code-notes</projectUrl>
+	<licenseUrl>https://github.com/lauthieb/code-notes/blob/master/LICENSE</licenseUrl>
     <iconUrl>https://github.com/lauthieb/code-notes/blob/master/build/icons/256x256.png</iconUrl>
     <tags>code notes developper tool snippet gist notepad</tags>
     <summary>A simple code snippet and gist manager for developers built with Electron and Vue.js</summary>
